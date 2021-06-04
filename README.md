@@ -70,3 +70,7 @@ E
 Donde el usuario puede elegir que casos poder ejecutar. Dicho de otro modo el usuario puede seleccionar 5 tipos distintos de casos como entrada y de salida tendra el resultante de las palabras repetidas.
 
 ## Evidencias
+
+![screenshot](./preview1.png)
+
+![screenshot](./preview2.png)
